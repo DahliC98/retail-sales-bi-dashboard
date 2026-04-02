@@ -23,6 +23,13 @@ A retail company has strong overall sales but lacks visibility into which region
 
 ---
 
+## Data Source
+The dataset used in this project is the Superstore Sales dataset, publicly available on Kaggle:
+
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+
+---
+
 ## Data Preparation
 
 The dataset was cleaned and standardized using SQL. Column names were normalized and inconsistent date formats were resolved to ensure accurate time-based analysis. Additional transformations were completed in Power Query to finalize data types and structure for reporting.
@@ -82,16 +89,22 @@ The dashboard is structured across three main views:
 
 ## Files Included
 
-* `dashboard.pbix` – Power BI dashboard file
-* `SQL_queries.sql` – SQL scripts used for data analysis
-* `retail_dataset.csv` – Source dataset
-* `dashboard_screenshots/` – Images of dashboard pages
+* `Retail_Dashboard.pbix` – Power BI dashboard file
+* `retail_sql_queries.sql` – SQL scripts used for data analysis
+* `dashboard_screenshots` – Images of dashboard pages
 
 ---
 
 ## Project Preview
 
-(Add screenshots here once uploaded)
+### Executive Overview
+![Executive Overview](dashboard_screenshots/Retail_ExecutiveOverview.PNG)
+
+### Sales Trends
+![Sales Trends](dashboard_screenshots/Retail_SalesTrends.PNG)
+
+### Product Performance & Loss Analysis
+![Product Analysis](dashboard_screenshots/Retail_ProductPerformance.PNG)
 
 ---
 

@@ -1,5 +1,5 @@
 # retail-sales-bi-dashboard
-A Business Intelligence solution analyzing retail sales, profitability, customer behavior, and product performance.
+Built an interactive Business Intelligence dashboard to analyze retail sales, profitability, and product performance using SQL and Power BI.
 # Retail Sales Performance & Profitability BI Dashboard
 
 ## Overview
@@ -110,4 +110,4 @@ The dashboard is structured across three main views:
 
 ## About Me
 
-Aspiring Business Intelligence Analyst with a background in data analytics and business strategy. Passionate about turning data into actionable insights and building dashboards that support real-world decision making.
+Aspiring Business Intelligence Analyst with a background in data analytics and business strategy.
